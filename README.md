@@ -1,8 +1,8 @@
-# 📦 Inventory Management System
+# 📦 Supermarket Management System
 
 ## Overview
 
-This Inventory Management System is a simple C++ console application designed to manage and maintain a product inventory. The application allows users to add, update, display, search, and delete products from the inventory. Additionally, it provides functionalities for billing, where users can add items to a cart and print the bill.
+This Supermarket Management System is a simple C++ console application designed to manage and maintain a product inventory. The application allows users to add, update, display, search, and delete products from the inventory. Additionally, it provides functionalities for billing, where users can add items to a cart and print the bill.
 
 ## Features
 
@@ -25,12 +25,12 @@ This Inventory Management System is a simple C++ console application designed to
 
 1. **🖥️ Compile**: 
    ```sh
-   g++ -o inventory_management main.cpp
+   g++ -o supermarket_management main.cpp
    ```
 
 2. **▶️ Run**:
    ```sh
-   ./inventory_management
+   ./supermarket_management
    ```
 
 ### Main Menu
